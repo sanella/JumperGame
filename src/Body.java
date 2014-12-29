@@ -17,7 +17,7 @@ public class Body {
 	private int maxX;
 	private int minY;
 	private int maxY;
-
+//////
 	public Body(int x, int y, int width, int height, Color color, int speedX,
 			int speedY, int minX, int minY, int maxX, int maxY) {
 		start = new Point(x, y);
